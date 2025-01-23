@@ -21,6 +21,7 @@ kits.forEach((kit) => {
             setTimeout(() => {
                 btnEl.style.transform = "scale(1)";
             }, 100);
+            
         }
     });
 });
